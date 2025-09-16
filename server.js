@@ -31,7 +31,7 @@ app.use(
       "http://localhost:3000",
       "http://localhost:5656",
       "https://www.wealthwiseportfolios.com",
-      "https://backend.wealthwiseportfolios.com",
+      "https://server.wealthwiseportfolios.com",
     ],
     credentials: true,
   })
